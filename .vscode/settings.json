@@ -1,0 +1,18 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.autoClosingBrackets": false,
+
+  "eslint.packageManager": "yarn",
+  "eslint.enable": true,
+
+  "files.exclude": {
+    "**/bin": true,
+    "**/dist": true,
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/output": true,
+    "**/yarn.lock": true,
+    "**/.yarnclean": true
+  }
+}
